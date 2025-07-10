@@ -86,8 +86,11 @@ The chatbot guides the user through budgeting:
 
 ## 📬 Contact
 
-Created with ❤️ by [Your Name]
+Created with ❤️ by [Charan]
 
 Feel free to reach out for feedback, collaboration, or contributions.
+
+Team Lead : G.SaiSricharan
+Team members: Shashank, Aahil Shaik, SaiKrishna
 
 ---
