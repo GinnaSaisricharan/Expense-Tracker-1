@@ -20,25 +20,25 @@ Welcome to the **Expense Tracker**, a smart and intuitive web application built 
 ## 🖼️ Screenshots
 
 ### 🔸 Landing Page
-![Landing Page](./Screenshot%202025-07-10%20195702.png)
+![Landing Page](./images/Screenshot%202025-07-10%20195702%20-%20Copy.png)
 
 ### 🔸 Features Overview
-![Features Overview](./Screenshot%202025-07-10%20195859.png)
+![Features Overview](./images/Screenshot%202025-07-10%20195859.png)
 
 ### 🔸 Testimonials and FAQ
-![Testimonials and FAQ](./Screenshot%202025-07-10%20195918.png)
-![More Testimonials](./Screenshot%202025-07-10%20195931.png)
-![FAQ](./Screenshot%202025-07-10%20195943.png)
+![Testimonials and FAQ](./images/Screenshot%202025-07-10%20195918.png)
+![More Testimonials](./images/Screenshot%202025-07-10%20195931.png)
+![FAQ](./images/Screenshot%202025-07-10%20195943.png)
 
 ### 🔸 Main Dashboard
-![Dashboard](./Screenshot%202025-07-10%20200309.png)
+![Dashboard](./images/Screenshot%202025-07-10%20200309.png)
 
 ### 🔸 AI Chatbot Assistant
-![Chatbot 1](./Screenshot%202025-07-10%20200421.png)
-![Chatbot 2](./Screenshot%202025-07-10%20200509.png)
+![Chatbot 1](./images/Screenshot%202025-07-10%20200421.png)
+![Chatbot 2](./images/Screenshot%202025-07-10%20200509.png)
 
 ### 🔸 Live Bitcoin Chart
-![Bitcoin Chart](./Screenshot%202025-07-10%20200554.png)
+![Bitcoin Chart](./images/Screenshot%202025-07-10%20200554.png)
 
 ---
 
